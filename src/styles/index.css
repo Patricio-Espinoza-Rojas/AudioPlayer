@@ -1,6 +1,5 @@
 body{
     font-size: 28px;
-    background-color: rgb(33,37,41);
 }
 
 .list-group{
@@ -9,5 +8,5 @@ body{
 }
 
 li:hover{
-    background-color: #7FFFD4		!important; 
+    background-color: #7FFFD4!important; 
 }
